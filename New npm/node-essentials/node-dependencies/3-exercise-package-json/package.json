@@ -1,0 +1,15 @@
+{
+  "name": "tailw",
+  "version": "1.0.0",
+  "description": "An HTTP API that will fetch items from Tailwind Traders database",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/inde.js"
+  },
+  "keywords": [],
+  "author": "Sam",
+  "license": "ISC"
+}
